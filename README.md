@@ -41,7 +41,7 @@ Welcome to my GitHub! I'm a self-driven full stack developer focused on building
 
 ## 📫 Connect with Me  
 - [LinkedIn](https://www.linkedin.com/in/abhirajput19)  
-- [Portfolio](app.makemyaisite.com/abhirajput_19)
+- [Portfolio](https://app.makemyaisite.com/abhirajput_19)
 - [Email](mailto:abhirajput1019@icloud.com)
 
 ---
